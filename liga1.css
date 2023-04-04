@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  th {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  img {
+    max-width: 100px;
+    max-height: 100px;
+  }
